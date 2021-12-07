@@ -1,6 +1,8 @@
 # Face-Recognition
 Face Recognition Project for Computer Vision Course at Shahid Bahonar University of Kerman
 
+![thumbnail](https://github.com/Gholamrezadar/Face-Recognition/raw/main/thumbnail.jpg)
+
 ## Install pre-requisites
 `$ pip install sklearn`
 
